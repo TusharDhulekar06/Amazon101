@@ -1,0 +1,1 @@
+pytest -s -v .\TestCases\test_001_Loginpage.py --browser edge

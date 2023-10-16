@@ -1,0 +1,5 @@
+UserName	password	result
+cfptushardhulekar@gmail.com	08Megha@12	valid
+cfptushardhulekar@gmail.com	08megha@12	invalid
+tushardhulekar@gmail.com	09megha12	invalid
+!@tushar@dhulekar.com	08Megha@12	invalid
